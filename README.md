@@ -1,4 +1,3 @@
-```markdown
 # Transaction Ledger API
 
 A robust, production-grade backend API for a transaction ledger system. Built with **FastAPI**, **PostgreSQL**, and **SQLAlchemy**.
@@ -24,6 +23,7 @@ This project includes a `Makefile` to automate the local development and testing
 - Docker & Docker Compose
 
 ### 1. Initial Setup
+
 ```bash
 # Clone the repository
 git clone https://github.com/Deepanshu422/Confluencr-Transaction-Ledger-Assignment.git
